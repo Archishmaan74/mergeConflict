@@ -1,2 +1,4 @@
 changing for merge conflict
 Append this text to initial commit
+Changing the content for a merge conflict to happen
+
