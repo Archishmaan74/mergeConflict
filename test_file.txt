@@ -1,1 +1,1 @@
-changing for merge conflict
+Changing the content for a merge conflict to happen
